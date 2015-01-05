@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <body>
          <div type="declaration">
-            <pb facs="tcp:000465_0000_0FA671179D1822A8"/>
-            <pb facs="tcp:000465_0001_0FA671186110C860" rendition="simple:additions"/>
+            <pb facs="unknown:000465_0000_0FA671179D1822A8"/>
+            <pb facs="unknown:000465_0001_0FA671186110C860"
+                rendition="simple:additions"/>
             <head>DECLARATION. Of the Nobility, Gentry, and Commonalty at the Rendezvous at <hi>Nottingham,</hi>
                <date>
                   <hi>November</hi> 22. 1688.</date>
@@ -128,7 +129,7 @@
             </p>
          </div>
          <div type="declaration">
-            <pb facs="tcp:000465_0002_0FA6711A796A0B38"/>
+            <pb facs="unknown:000465_0002_0FA6711A796A0B38"/>
             <head>The <hi>DECLARATION</hi> of the LORDS Spiritual and Temporal, In and about the Cities of <hi>London</hi> and <hi>Westminster,</hi> Assembled at <hi>Guildhall,</hi>
                <date>11th. <hi>Decemb.</hi> 1688.</date>
             </head>
